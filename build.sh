@@ -1,4 +1,4 @@
 #!/bin/bash
 
-docker build -t mikenye/steam .
+docker build -t steam .
 
